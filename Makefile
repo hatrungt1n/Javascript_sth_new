@@ -1,0 +1,2 @@
+local:
+	node index.js
